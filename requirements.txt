@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+langchain-huggingface
+huggingface_hub
+langchain-community
+pypdf
+beautifulsoup4
+wikipedia
+python-dotenv
+langsmith
+tiktoken
+faiss-cpu
+sentence-transformers
